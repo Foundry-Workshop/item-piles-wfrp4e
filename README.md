@@ -25,7 +25,6 @@ If you wish to support me, please consider [becoming my Patreon](https://www.pat
 
 
 ## Acknowledgments
-_Disclaimer: I kept all acknowledgments, even if their respective work was lost during the Module's remake. Sorry for that._
 
 * Thanks to Wasp for creating Item Piles! 
 * Thanks to Txus for providing the initial config for this module!
