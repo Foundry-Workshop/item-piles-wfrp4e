@@ -1,0 +1,7 @@
+.idea/
+styles/.sass-cache/
+devtool/
+node_modules/
+_oldStuff
+dist/*
+.env

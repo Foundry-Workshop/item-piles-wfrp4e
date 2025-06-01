@@ -1,0 +1,53 @@
+{
+  "id": "item-piles-wfrp4e",
+  "title": "Item Piles: WFRP4e",
+  "description": "WFRP4e companion module for Item Piles.",
+  "version": "<<autoreplaced>>",
+  "url": "<<autoreplaced>>",
+  "manifest": "<<autoreplaced>>",
+  "download": "<<autoreplaced>>",
+  "readme": "<<autoreplaced>>",
+  "changelog": "<<autoreplaced>>",
+  "bugs": "<<autoreplaced>>",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Forien",
+      "discord": "forien",
+      "email": "mr.forien@gmail.com",
+      "url": "https://www.patreon.com/foundryworkshop"
+    },
+    {
+      "name": "Txus",
+      "url": "https://ko-fi.com/txus5012"
+    }
+  ],
+  "esmodules": [
+    "item-piles-wfrp4e.mjs"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "9.1.0"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "item-piles",
+        "type": "module",
+        "manifest": "https://github.com/fantasycalendar/FoundryVTT-ItemPiles/releases/latest/download/module.json",
+        "compatibility": {
+          "minimum": "3.2.7",
+          "verified": "3.2.9"
+        }
+      }
+    ]
+  }
+}
