@@ -34,7 +34,6 @@
         "id": "wfrp4e",
         "type": "system",
         "compatibility": {
-          "minimum": "9.1.0"
         }
       }
     ],
